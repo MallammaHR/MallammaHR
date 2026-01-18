@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Mallu&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%9A%80%20SDET%20specializing%20in%20Automation%2C%20API%20Testing%2C%20and%20CI%2FCD-driven%20quality%20engineering&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=MallammaHR&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%9A%80%20SDET%20specializing%20in%20Automation%2C%20API%20Testing%2C%20and%20CI%2FCD-driven%20quality%20engineering&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/MallammaHR">
