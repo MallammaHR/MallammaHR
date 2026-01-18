@@ -1,4 +1,4 @@
-## Hi there 👋
+## Thanks for stopping by! 👋 
 
 
 <div align="center">
